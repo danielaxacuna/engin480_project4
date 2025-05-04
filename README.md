@@ -1,5 +1,5 @@
 # engin480_project4
-This repo contains our wokr for Project 4 Delivery 1 in ENGIN 480.  
+This repo contains our work for Project 4 Delivery 1 in ENGIN 480.  
 It focuses on simulating Annual Energy Production (AEP) using the PyWake Python library.
 
 ## What's Included
